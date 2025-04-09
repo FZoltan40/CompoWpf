@@ -1,0 +1,31 @@
+﻿<Window x:Class="ComputerWpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ComputerWpf"
+        mc:Ignorable="d"
+        Title="OnlineShop" Height="450" Width="800">
+    <Grid>
+        <DockPanel>
+            <!--Top Navigációs rész-->
+            <ToolBar DockPanel.Dock="Top" Background="#2d89ef">
+                <TextBlock Text="ComputerShop" Foreground="White" FontSize="18" FontWeight="Bold" Margin="10" />
+                <Button x:Name="button1"  Content="Frissítés" Foreground="White" Background="#0078d7" BorderBrush="#005a9e" 
+                        Padding="10" FontSize="14" Height="40" Click="button1_Click"/>
+            </ToolBar>
+
+            <!--Oldalsó Navigációs rész-->
+            <StackPanel DockPanel.Dock="Left" Background="White" Width="200">
+                <Button x:Name="button2" Click="button2_Click" Content="Számítógépek" Padding="10" Background="Transparent" FontSize="14" />
+                <Button x:Name="button3" Content="Operációsrendszerek" Padding="10" Background="Transparent" FontSize="14" Click="button3_Click"/>
+            </StackPanel>
+            
+            <!--Tertalmi rész-->
+            <Grid>
+                <DataGrid Margin="10" AutoGenerateColumns="True"/>
+            </Grid>
+
+        </DockPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+C:\Users\farka\source\repos\ComputerWpf\ComputerWpf\bin\Debug\ComputerWpf.exe.config
+C:\Users\farka\source\repos\ComputerWpf\ComputerWpf\bin\Debug\ComputerWpf.exe
+C:\Users\farka\source\repos\ComputerWpf\ComputerWpf\bin\Debug\ComputerWpf.pdb
+C:\Users\farka\source\repos\ComputerWpf\ComputerWpf\obj\Debug\ComputerWpf.csproj.AssemblyReference.cache
+C:\Users\farka\source\repos\ComputerWpf\ComputerWpf\obj\Debug\MainWindow.g.cs
+C:\Users\farka\source\repos\ComputerWpf\ComputerWpf\obj\Debug\App.g.cs
+C:\Users\farka\source\repos\ComputerWpf\ComputerWpf\obj\Debug\ComputerWpf_MarkupCompile.cache
+C:\Users\farka\source\repos\ComputerWpf\ComputerWpf\obj\Debug\ComputerWpf_MarkupCompile.lref
+C:\Users\farka\source\repos\ComputerWpf\ComputerWpf\obj\Debug\MainWindow.baml
+C:\Users\farka\source\repos\ComputerWpf\ComputerWpf\obj\Debug\ComputerWpf.g.resources
+C:\Users\farka\source\repos\ComputerWpf\ComputerWpf\obj\Debug\ComputerWpf.Properties.Resources.resources
+C:\Users\farka\source\repos\ComputerWpf\ComputerWpf\obj\Debug\ComputerWpf.csproj.GenerateResource.cache
+C:\Users\farka\source\repos\ComputerWpf\ComputerWpf\obj\Debug\ComputerWpf.csproj.CoreCompileInputs.cache
+C:\Users\farka\source\repos\ComputerWpf\ComputerWpf\obj\Debug\ComputerWpf.exe
+C:\Users\farka\source\repos\ComputerWpf\ComputerWpf\obj\Debug\ComputerWpf.pdb
