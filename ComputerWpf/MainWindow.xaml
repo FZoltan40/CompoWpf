@@ -13,6 +13,7 @@
                 <TextBlock Text="ComputerShop" Foreground="White" FontSize="18" FontWeight="Bold" Margin="10" />
                 <Button x:Name="button1"  Content="Frissítés" Foreground="White" Background="#0078d7" BorderBrush="#005a9e" 
                         Padding="10" FontSize="14" Height="40" Click="button1_Click"/>
+                <TextBlock x:Name="resultQuery" Foreground="WhiteSmoke" FontSize="13" FontWeight="Bold" Margin="10" />
             </ToolBar>
 
             <!--Oldalsó Navigációs rész-->
@@ -24,7 +25,10 @@
             <!--Tertalmi rész-->
             <Grid>
                 <DataGrid x:Name="dataGrid" Margin="10" AutoGenerateColumns="True"/>
+               
             </Grid>
+
+          
 
         </DockPanel>
     </Grid>
