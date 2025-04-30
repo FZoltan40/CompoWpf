@@ -17,13 +17,13 @@
 
             <!--Oldalsó Navigációs rész-->
             <StackPanel DockPanel.Dock="Left" Background="White" Width="200">
-                <Button x:Name="button2" Click="button2_Click" Content="Számítógépek" Padding="10" Background="Transparent" FontSize="14" />
+                <Button x:Name="button2" Content="Számítógépek" Padding="10" Background="Transparent" FontSize="14" Click="button2_Click" />
                 <Button x:Name="button3" Content="Operációsrendszerek" Padding="10" Background="Transparent" FontSize="14" Click="button3_Click"/>
             </StackPanel>
             
             <!--Tertalmi rész-->
             <Grid>
-                <DataGrid Margin="10" AutoGenerateColumns="True"/>
+                <DataGrid x:Name="dataGrid" Margin="10" AutoGenerateColumns="True"/>
             </Grid>
 
         </DockPanel>
