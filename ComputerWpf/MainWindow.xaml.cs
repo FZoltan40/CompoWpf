@@ -36,7 +36,7 @@ namespace ComputerWpf
         {
             try
             {
-                string sql = "SELECT * FROM compe";
+                string sql = "SELECT * FROM comp";
 
                 using (var connection = new MySqlConnection(ConnectionString))
                 {
