@@ -46,3 +46,9 @@ C:\Users\farka\source\repos\ComputerWpf\ComputerWpf\bin\Debug\System.Numerics.Ve
 C:\Users\farka\source\repos\ComputerWpf\ComputerWpf\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\farka\source\repos\ComputerWpf\ComputerWpf\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\farka\source\repos\ComputerWpf\ComputerWpf\obj\Debug\Computer.3BD8F333.Up2Date
+C:\Users\farka\source\repos\ComputerWpf\ComputerWpf\obj\Debug\Page1.g.cs
+C:\Users\farka\source\repos\ComputerWpf\ComputerWpf\obj\Debug\Page2.g.cs
+C:\Users\farka\source\repos\ComputerWpf\ComputerWpf\obj\Debug\Page3.g.cs
+C:\Users\farka\source\repos\ComputerWpf\ComputerWpf\obj\Debug\Page1.baml
+C:\Users\farka\source\repos\ComputerWpf\ComputerWpf\obj\Debug\Page2.baml
+C:\Users\farka\source\repos\ComputerWpf\ComputerWpf\obj\Debug\Page3.baml
