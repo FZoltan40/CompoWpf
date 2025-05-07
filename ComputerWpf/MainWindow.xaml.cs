@@ -10,7 +10,7 @@ namespace ComputerWpf
         public MainWindow()
         {
             InitializeComponent();
-            MainFrame.Navigate(new Page3(this));
+            MainFrame.Navigate(new Page1(this));
 
         }
 

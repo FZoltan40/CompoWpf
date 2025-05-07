@@ -9,6 +9,21 @@
       Title="Page2">
 
     <Grid>
-        <TextBlock Text="Ez a page2" />
+        <StackPanel VerticalAlignment="Center">
+            <TextBlock  Text="Felhasználónév:" Background="#2D89EF" Foreground="White" FontSize="18" FontWeight="Bold" Margin="4" Width="200"/>
+            <TextBox Name="usernameTextBox" Margin="4" Width="200" />
+            <TextBlock Text="Jelszó:" Background="#2D89EF" Foreground="White" FontSize="18" FontWeight="Bold" Margin="4"  Width="200"/>
+            <PasswordBox Name="passwordBox" Width="200" Margin="4" />
+
+            <TextBlock  Text="Email:" Background="#2D89EF" Foreground="White" FontSize="18" FontWeight="Bold"  Margin="4" Width="200"/>
+            <TextBox Name="emailTextBox" Margin="4" Width="200" />
+            
+            <Button x:Name="registerButton1" Click="registerButton1_Click_1" Content="Reisztráció" Foreground="White" Background="#0078D7"
+              BorderBrush="#005A9E" Margin="10" Padding="10" FontSize="14"
+              Width="140" Height="40" />
+            <Button x:Name="backButton1" Click="backButton1_Click" Content="Vissza" Foreground="White" Background="Red"
+            BorderBrush="#005A9E"  Margin="10" Padding="10" FontSize="14"
+            Width="100" Height="40" />
+        </StackPanel>
     </Grid>
 </Page>

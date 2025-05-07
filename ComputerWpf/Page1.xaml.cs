@@ -18,5 +18,15 @@ namespace ComputerWpf
         {
 
         }
+
+        private void loginButton1_Click(object sender, System.Windows.RoutedEventArgs e)
+        {
+
+        }
+
+        private void Hyperlink_Click(object sender, System.Windows.RoutedEventArgs e)
+        {
+            _mainWindow.MainFrame.Navigate(new Page2(_mainWindow));
+        }
     }
 }
